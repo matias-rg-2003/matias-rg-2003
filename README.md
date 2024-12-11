@@ -6,12 +6,6 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matías-ramírez-guevara-87a9112b6) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matias-rg-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matias-rg-2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-rg-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matias-rg-2003&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matias-rg-2003&theme=dark&hide_border=true)<br/>
 
